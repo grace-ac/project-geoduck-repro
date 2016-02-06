@@ -2,14 +2,19 @@ Project Status - Active
 
 [![GitHub issues](https://img.shields.io/github/issues/RobertsLab/project-geoduck-repro.svg)](https://github.com/RobertsLab/project-geoduck-repro/issues)
 
-## Maturation processes in the marine mollusc, _Panopea generosa_
+# Maturation processes in the marine mollusc, _Panopea generosa_
 
-Research Objectives:   
+### Research Objectives:   
 1) Identify proteins that play a role in geoduck reproductive maturation      
 2) Characterize tissue specific transcriptomic resources for the geoduck
 
 ---
-Manuscripts:    
+### Lab Notebooks:
+* [Grace Crandall](http://genefish.wikispaces.com/Grace%27s+Notebook)
+
+---
+
+### Manuscripts:    
 * Crandall - [Histological characterization](https://docs.google.com/document/d/1y-tYILgL0CJXYl1REl67167CPA0nK3sP4WabVMaeOP0/edit?ts=563c5bcc)
 * Timmins-Schiffman - [Proteomic characterization](https://docs.google.com/document/d/11zGFXFa4ODBjBVRXOH3-ly2NQ7w3LrrpGce4w31PflA/edit)
 
